@@ -28,54 +28,54 @@ In exercises, you collect your own data and try to answer questions about human 
 
 ### Block 1: Lectures
 
-1. **Introduction to Computational Social Systems** [[Slides]](https://pjercic.github.io/FoundationsOfCSS2024/01_Introduction/week-1.pdf) (10.10.2023)  
+1. **Introduction to Computational Social Systems** [[Slides]](https://pjercic.github.io/FoundationsOfCSS2024/01_Introduction/week-1.pdf) (11.10.2023) **NOTE! Room/time change: HS i3 (Inffeldgasse 25D) at 14:00**
 - [Tutorial session: 01. Intro to Python 1](https://pjercic.github.io/FoundationsOfCSS2024/Python_Tutorial/) -- [Tutorial 1 resources](https://github.com/pjercic/FoundationsOfCSS2024/blob/main/Python_Tutorial/tutorials/tutorial01.ipynb) -- [Exercise 1 resources](https://github.com/pjercic/FoundationsOfCSS2024/blob/main/Python_Tutorial/exercises/tutorial_exercise_1.ipynb)  
 *(Please install Jupyter Notebook before the tutorial sessions takes place, where we can provide help with the installation if something goes wrong.) The easiest way is using the [Anaconda](https://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/install.html) distribution, since it is well supported and maintained.*
 
-2. **Social Impact Theory** [[Slides]](https://pjercic.github.io/FoundationsOfCSS2024/02_SocialImpact/week-2.pdf) (17.10.2023)  
+2. **Social Impact Theory** [[Slides]](https://pjercic.github.io/FoundationsOfCSS2024/02_SocialImpact/week-2.pdf) (15.10.2023)  
 - [Tutorial session: 02. Intro to Python 2](https://pjercic.github.io/FoundationsOfCSS2024/Python_Tutorial/) -- [Tutorial 2 resources](https://github.com/pjercic/FoundationsOfCSS2024/blob/main/Python_Tutorial/tutorials/tutorial02.ipynb) -- [Exercise 2 resources](https://github.com/pjercic/FoundationsOfCSS2024/blob/main/Python_Tutorial/exercises/tutorial_exercise_2.ipynb)
 
-3. **Collective intelligence and collective action (guest: Prof. Mirta Galesic, Santa Fe Institue and Complexity Science Hub Vienna)** [[Slides]](https://pjercic.github.io/FoundationsOfCSS2024/03_CollectiveIntelligenceAction/week-3.pdf) (24.10.2023)  
+3. **Social Networks analysis** [[Slides]](https://pjercic.github.io/FoundationsOfCSS2024/03_CollectiveIntelligenceAction/week-3.pdf) (22.10.2023)  
 - [Tutorial session: 03.  Intro to Python 3](https://pjercic.github.io/FoundationsOfCSS2024/Python_Tutorial/) -- [Tutorial 3 resources](https://github.com/pjercic/FoundationsOfCSS2024/blob/main/Python_Tutorial/tutorials/tutorial03.ipynb) -- [Exercise 3 resources](https://github.com/pjercic/FoundationsOfCSS2024/blob/main/Python_Tutorial/exercises/tutorial_exercise_3.ipynb)  
 
-4. **Social  Behaviour and Trends (guest lecture: Dr. Lisette Espin-Noboa, Complexity Science Hub Vienna)** [[Slides]](https://pjercic.github.io/FoundationsOfCSS2024/04_SocialBehaviourTrends/week-4.pdf) [[Example codes]](https://github.com/pjercic/FoundationsOfCSS2024/blob/main/04_SocialBehaviourTrends/notebooks) (31.10.2023)  
+4. **Social  Behaviour and Trends (guest lecture: Dr. Lisette Espin-Noboa, Complexity Science Hub Vienna)** [[Slides]](https://pjercic.github.io/FoundationsOfCSS2024/04_SocialBehaviourTrends/week-4.pdf) [[Example codes]](https://github.com/pjercic/FoundationsOfCSS2024/blob/main/04_SocialBehaviourTrends/notebooks) (29.10.2023)  
 - Exercise 1: Correlation of Future Orientation Index and Gross Domestic Product (session 1) [[Video]](https://tube.tugraz.at/paella/ui/watch.html?id=7d8348b3-5312-4238-a43e-ab313c66465d) -- [Exercise resources](https://github.com/pjercic/FoundationsOfCSS2024/blob/main/Exercise01/) 
 
-5. **Social Media Sentiment Analysis (guest lecture: Dr. Max Pellert, Complexity Science Hub Vienna)** [[Slides]](https://pjercic.github.io/FoundationsOfCSS2024/05_SocialMediaSentimentAnalysis/week-5.pdf) (7.11.2023)    
+5. **AI ethics workshop 05.11.2024 in Vienna (No lecture) (Students are welcome to join, details will be announced)**
 - Exercise 1: Correlation of Future Orientation Index and Gross Domestic Product (session 2) [[Video]](https://tube.tugraz.at/paella/ui/watch.html?id=7d8348b3-5312-4238-a43e-ab313c66465d) -- [Exercise resources](https://github.com/pjercic/FoundationsOfCSS2024/blob/main/Exercise01/) 
 
-6. **Social networks 1** [[Slides]](https://pjercic.github.io/FoundationsOfCSS2024/06_SocialNetworks/week-6.pdf) (14.11.2023)   
-- Exercise 2: Social Impact Theory with Twitter Data (session 1) [[Video]](https://tube.tugraz.at/paella/ui/watch.html?id=b070baec-ca13-4fdf-9875-ec0ac895a30f) -- [[Exercise resources]](https://github.com/pjercic/FoundationsOfCSS2024/blob/main/Exercise02/)  
-
-7. **Measuring Polarization (guest lecture: Dr. Samuel
-Martin-Gutierrez, Complexity Science Hub Vienna)** [[Slides]](https://pjercic.github.io/FoundationsOfCSS2024/07_MeasuringPolarization/week-7.pdf) (21.11.2023)   
+6. **Social Media Sentiment Analysis (guest lecture: TBA)** [[Slides]](https://pjercic.github.io/FoundationsOfCSS2024/05_SocialMediaSentimentAnalysis/week-5.pdf) (12.11.2023)    
 - Exercise 2: Social Impact Theory with Twitter Data (session 2) [[Video]](https://tube.tugraz.at/paella/ui/watch.html?id=b070baec-ca13-4fdf-9875-ec0ac895a30f) -- [[Exercise resources]](https://github.com/pjercic/FoundationsOfCSS2024/blob/main/Exercise02/)  
 
-8. **Social networks and processes** [[Slides]](https://pjercic.github.io/FoundationsOfCSS2024/08_SocialNetworksProcesses/week-8.pdf) (28.11.2023)   
+7. **Cities and Complexity (19.11.2024) (guest lecture: TBC)**
+- Exercise 2: Social Impact Theory with Twitter Data (session 1) [[Video]](https://tube.tugraz.at/paella/ui/watch.html?id=b070baec-ca13-4fdf-9875-ec0ac895a30f) -- [[Exercise resources]](https://github.com/pjercic/FoundationsOfCSS2024/blob/main/Exercise02/) 
+
+8. **Collective intelligence and collective action (guest: Prof. Mirta Galesic, Santa Fe Institue and Complexity Science Hub Vienna)** [[Slides]](https://pjercic.github.io/FoundationsOfCSS2024/03_CollectiveIntelligenceAction/week-3.pdf) (26.11.2023)   
 - Exercise 3: Sentiment Evaluation of Twitter and YouTube Data (session 1) [[Video]](https://tube.tugraz.at/paella/ui/watch.html?id=01a068a1-92e5-4a0a-9633-d57b8901d770) -- [[Exercise Resources]](https://github.com/pjercic/FoundationsOfCSS2024/blob/main/Exercise03/)
 
-9. **From animals to human: synchrony and cultural evolution** [[Slides]](https://pjercic.github.io/FoundationsOfCSS2024/09_AnimalsHuman/week-9.pdf) (5.12.2023)   
-- Exercise 3: Sentiment Evaluation of Twitter and YouTube Data (session 2) [[Video]](https://tube.tugraz.at/paella/ui/watch.html?id=01a068a1-92e5-4a0a-9633-d57b8901d770) -- [[Exercise Resources]](https://github.com/pjercic/FoundationsOfCSS2024/blob/main/Exercise03/)
+9. **Measuring Polarization (guest lecture: Dr. Samuel
+Martin-Gutierrez, Complexity Science Hub Vienna)** [[Slides]](https://pjercic.github.io/FoundationsOfCSS2024/07_MeasuringPolarization/week-7.pdf) (03.12.2023)   
+- Exercise 3: Sentiment Evaluation of Twitter and YouTube Data (session 1) [[Video]](https://tube.tugraz.at/paella/ui/watch.html?id=01a068a1-92e5-4a0a-9633-d57b8901d770) -- [[Exercise Resources]](https://github.com/pjercic/FoundationsOfCSS2024/blob/main/Exercise03/)
 
-10. **Computational inequality**  (12.12.2023)    
-- Exercise 4: Social Network Analysis of Swiss Politicians on Twitter Data (session 1) [[Video]](https://tube.tugraz.at/paella/ui/watch.html?id=ecaadec6-d56b-4812-8c77-844684f13ba4) -- [[Exercise Resources]](https://github.com/pjercic/FoundationsOfCSS2024/blob/main/Exercise04/)  
+10. **Human Societies and Cultural Evolution (10.12.2023) —> Dr. Daniel Kondor, CSH [Confirmed]**
+- Exercise 4: Social Network Analysis of Swiss Politicians on Twitter Data (session 2) [[Video]](https://tube.tugraz.at/paella/ui/watch.html?id=ecaadec6-d56b-4812-8c77-844684f13ba4) -- [[Exercise Resources]](https://github.com/pjercic/FoundationsOfCSS2024/blob/main/Exercise04/) 
 
-11. ~~**Social challenges and data ethics (guest lecture)** (19.12.2023)~~  
-- Exercise 4: Social Network Analysis of Swiss Politicians on Twitter Data (session 2) [[Video]](https://tube.tugraz.at/paella/ui/watch.html?id=ecaadec6-d56b-4812-8c77-844684f13ba4) -- [[Exercise Resources]](https://github.com/pjercic/FoundationsOfCSS2024/blob/main/Exercise04/)  
+11. **Social data science and data ethics (17.12.2023) —> TBC** 
+- Exercise 4: Social Network Analysis of Swiss Politicians on Twitter Data (session 2) [[Video]](https://tube.tugraz.at/paella/ui/watch.html?id=ecaadec6-d56b-4812-8c77-844684f13ba4) -- [[Exercise Resources]](https://github.com/pjercic/FoundationsOfCSS2024/blob/main/Exercise04/) 
 
 ### Block 2: Project
 
-12. **Lecture Q&A session** [[Slides]]() (09.01.2024)  
+12. **Lecture Q&A session** [[Slides]]() (07.01.2024)  
 *Project guidance*  
 
-12. ~~**Lecture Q&A session** [[Slides]]() (16.01.2024)~~  
+12. ~~**Lecture Q&A session** [[Slides]]() (14.01.2024)~~  
 *Project guidance*  
 
-14. **Project presentations** [[Agenda]](https://github.com/pjercic/FoundationsOfCSS2024/blob/main/final_project_agenda.pdf) (23.01.2024)
+14. **No lecture** [[Agenda]](https://github.com/pjercic/FoundationsOfCSS2024/blob/main/final_project_agenda.pdf) (21.01.2024)
 <!-- - Make sure your whole group is available between 16:00 and 19:00 -->
 
-15. **Project presentations** [[Agenda]](https://github.com/pjercic/FoundationsOfCSS2024/blob/main/final_project_agenda.pdf) (30.01.2024)
-<!-- - Make sure your whole group is available between 16:00 and 19:00 -->
+15. **Final Poster presentations ** [[Agenda]](https://github.com/pjercic/FoundationsOfCSS2024/blob/main/final_project_agenda.pdf) (28.01.2024) **NOTE! Room change: HS FSI I (FSEG054)  from 11  to 14.**
+<!-- - Make sure your whole group is available between 11:00 and 14:00 -->
 
 ## Where to access materials
 
@@ -91,10 +91,10 @@ You can also find some guidance and recommendations in the [SLIDES OF THE PROJEC
 There is also a [PROJECT EXAMPLE](https://pjercic.github.io/FoundationsOfCSS2024/Projects_Guidance/ProjectRegistrationExample).
 
 - 22.12 (end of day) - deadline for project group registrations on TC
-- 09.01 - Project guidance with Fariba
-- 16.01 - Project guidance with Fariba
-- 23.01 - Project presentations date 1
-- 30.01 - Project presentations date 2
+- 07.01 - Project guidance with Fariba
+- 14.01 - Project guidance with Fariba
+- 21.01 - No lecture
+- 28.01 - Final Poster presentations
 - 11.02 (end of day) - deadline for submission of projects final report
 
 ## Course grading
