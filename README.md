@@ -68,7 +68,7 @@ Martin-Gutierrez, Complexity Science Hub Vienna)** [[Slides]](https://pjercic.gi
 12. **Lecture Q&A session** [[Slides]]() (07.01.2024)  
 *Project guidance*  
 
-12. ~~**Lecture Q&A session** [[Slides]]() (14.01.2024)~~  
+12. **Lecture Q&A session** [[Slides]]() (14.01.2024)
 *Project guidance*  
 
 14. **No lecture** [[Agenda]](https://github.com/pjercic/FoundationsOfCSS2024/blob/main/final_project_agenda.pdf) (21.01.2024)
