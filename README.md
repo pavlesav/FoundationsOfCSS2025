@@ -109,7 +109,7 @@ The assessment for the course is based on these components:
   - Participation in group presentation sessions (both as presenter and discussant): **25% of final grade**
   - Project report (include the implementation of behavior in your model - in math or code): **25% of final grade**
 
-Graded exercises need to be submitted on Teach Center by the deadline (end of day in Graz time). We will provide solution files for ungraded exercises for you to check your progress. Nevertheless, we expect to see in your projects the techniques covered in the exercises, both graded and ungraded.
+Exercises need to be submitted on Teach Center by the deadline (end of day in Graz time). We will provide hint files for exercises for a week before the deadline. Nevertheless, we expect to see in your projects the techniques covered in the exercises.
 
 # Using AI disclaimer
 
