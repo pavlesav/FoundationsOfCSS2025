@@ -1,7 +1,7 @@
 # Foundations of Computational Social Systems
 [Fariba Karimi](https://networkinequality.com/), 2024
 
-Welcome to the online materials for Foundations of Computational Social Systems.
+Welcome to the online materials for Foundations of Computational Social Systems, Winter Semester 2024.
 
 The widespread use of information and communication technologies in our digital society motivates the study of Computational Social Systems, where humans and machines interact in a way that generates new phenomena and data. These new phenomena require an interdisciplinary approach that builds on digital trace data to study Computational Social Systems at global scales, very high frequencies, and unprecedented levels of depth and resolution.
 
@@ -9,7 +9,7 @@ This course focuses on the fundamentals of a computational approach to study new
 
 ## Who am I?
 
-Fariba Karimi is the Professor for Computational Behavioral and Social Sciences the Graz University of Technology. Fariba Karimi leads the Complexity Science Hub’s computational social science team. Fariba received a PhD in physics and computational science from Umea University, in Sweden, in 2015 and was a PostDoc at GESIS – Leibniz Institute for Social Sciences, in Germany. Fariba’s research focuses on computational social science, the emergence of biases and inequality in networks and algorithms, and modeling human behavior. Her recent research revolves around the topics of visibility of minorities in social networks, the impact of network structure on ranking and recommender algorithms, and disparities in academia and its impact on under-represented groups. She combines statistical analyses of large datasets of online interactions with computational models, agent-based modeling, and network analysis. In 2022, Fariba together with a team of international researchers was awarded an EU Horizon grant to study multi-criteria fairness in AI systems. In 2023, she received the Young Scientist Award from the German Physical Society for her research on inequality in complex networks. Since January 2023, Fariba has also been an assistant professor at TU Wien. I teach this course in collaboration with [Dr. Petar Jerčić](http://www.petarjercic.com/), a postdoctoral researcher in the Computational Social Science Lab, and Benjamin Wolf Röhrich, the student tutor for the course. Several people have contributed to the materials of this course over time, especially [Prof. David Garcia](http://dgarcia.eu/), [Prof. Jana Lasser](https://janalasser.at/) and [Dr. Max Pellert](https://mpellert.at/).
+Fariba Karimi is the Professor for Computational Behavioral and Social Sciences the Graz University of Technology. Fariba Karimi leads the Complexity Science Hub’s computational social science team. Fariba received a PhD in physics and computational science from Umea University, in Sweden, in 2015 and was a PostDoc at GESIS – Leibniz Institute for Social Sciences, in Germany. Fariba’s research focuses on computational social science, the emergence of biases and inequality in networks and algorithms, and modeling human behavior. Her recent research revolves around the topics of visibility of minorities in social networks, the impact of network structure on ranking and recommender algorithms, and disparities in academia and its impact on under-represented groups. She combines statistical analyses of large datasets of online interactions with computational models, agent-based modeling, and network analysis. In 2022, Fariba together with a team of international researchers was awarded an EU Horizon grant to study multi-criteria fairness in AI systems. In 2023, she received the Young Scientist Award from the German Physical Society for her research on inequality in complex networks. Since January 2023, Fariba has also been an assistant professor at TU Wien. I teach this course in collaboration with [Dr. Petar Jerčić](http://www.petarjercic.com/), a postdoctoral researcher in the Computational Social Science Lab, and Pavle Savkovic, the student tutor for the course. Several people have contributed to the materials of this course over time, especially [Prof. David Garcia](http://dgarcia.eu/), [Prof. Jana Lasser](https://janalasser.at/) and [Dr. Max Pellert](https://mpellert.at/).
 
 ## Place and time
 
@@ -17,64 +17,59 @@ The main lecture takes place on Tuesdays at 11:00 (sharp) in lecture room [HS II
 
 ## Course Contents
 
-The course is organized in 13 sessions. Each session contains a practical part with exercises for you to apply what you learned. From the third week, the practice session will consist of a discussion of solutions to the exercise corresponding to the previous session. In exercises, you collect your own data and try to answer questions about human behavior and online phenomena. The online materials do not contain the solutions to the exercises, but if you are stuck or want to start from an easier point, in the github folder of the exercise you can find a version of the exercise with hints.
-
-In exercises, you collect your own data and try to answer questions about human behavior and online phenomena. The online materials do not contain the solutions to the exercises, but if you are stuck or want to start from an easier point, in the github folder of the exercise you can find a version of the exercise with hints.
-
-0. **Foundations of Computational Social Systems** (3.10.2023)  
-0.1. Course administration and information  
-0.2. Meet your lecturers  
-*There will be no actual lecture on this date, but a session to get information about the course, meet the lecturers and ask questions.*
+The course is organized in 13 sessions. Each session contains a practical part with exercises for you to apply what you learned. From the fourth week, the practice session will consist of a discussion of solutions to the exercise corresponding to the previous session. In exercises, you try to answer questions about human behavior and online phenomena. The online materials do not contain the solutions to the exercises, but if you are stuck or want to start from an easier point, in the github folder of the exercise you can find a version of the exercise with hints.
 
 ### Block 1: Lectures
 
-1. **Introduction to Computational Social Systems** [[Slides]](https://pjercic.github.io/FoundationsOfCSS2024/01_Introduction/week-1.pdf) (11.10.2023) **NOTE! Room/time change: HS i3 (Inffeldgasse 25D) at 14:00**
+1. **Introduction to Computational Social Systems** [[Slides]](https://pjercic.github.io/FoundationsOfCSS2024/01_Introduction/week-1.pdf) (11.10.2024) **NOTE! Room/time change: HS i3 (Inffeldgasse 25D) at 14:00**
+- No exercise session 
+
+2. **Social Impact Theory** [[Slides]](https://pjercic.github.io/FoundationsOfCSS2024/02_SocialImpact/week-2.pdf) (15.10.2024)
 - [Tutorial session: 01. Intro to Python 1](https://pjercic.github.io/FoundationsOfCSS2024/Python_Tutorial/) -- [Tutorial 1 resources](https://github.com/pjercic/FoundationsOfCSS2024/blob/main/Python_Tutorial/tutorials/tutorial01.ipynb) -- [Exercise 1 resources](https://github.com/pjercic/FoundationsOfCSS2024/blob/main/Python_Tutorial/exercises/tutorial_exercise_1.ipynb)  
 *(Please install Jupyter Notebook before the tutorial sessions takes place, where we can provide help with the installation if something goes wrong.) The easiest way is using the [Anaconda](https://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/install.html) distribution, since it is well supported and maintained.*
 
-2. **Social Impact Theory** [[Slides]](https://pjercic.github.io/FoundationsOfCSS2024/02_SocialImpact/week-2.pdf) (15.10.2023)  
+3. **Social Networks analysis** [[Slides]](https://pjercic.github.io/FoundationsOfCSS2024/03_CollectiveIntelligenceAction/week-3.pdf) (22.10.2024)
 - [Tutorial session: 02. Intro to Python 2](https://pjercic.github.io/FoundationsOfCSS2024/Python_Tutorial/) -- [Tutorial 2 resources](https://github.com/pjercic/FoundationsOfCSS2024/blob/main/Python_Tutorial/tutorials/tutorial02.ipynb) -- [Exercise 2 resources](https://github.com/pjercic/FoundationsOfCSS2024/blob/main/Python_Tutorial/exercises/tutorial_exercise_2.ipynb)
 
-3. **Social Networks analysis** [[Slides]](https://pjercic.github.io/FoundationsOfCSS2024/03_CollectiveIntelligenceAction/week-3.pdf) (22.10.2023)  
+4. **Social  Behaviour and Trends (guest lecture: Dr. Lisette Espin-Noboa, Complexity Science Hub Vienna)** [[Slides]](https://pjercic.github.io/FoundationsOfCSS2024/04_SocialBehaviourTrends/week-4.pdf) (29.10.2024)  
 - [Tutorial session: 03.  Intro to Python 3](https://pjercic.github.io/FoundationsOfCSS2024/Python_Tutorial/) -- [Tutorial 3 resources](https://github.com/pjercic/FoundationsOfCSS2024/blob/main/Python_Tutorial/tutorials/tutorial03.ipynb) -- [Exercise 3 resources](https://github.com/pjercic/FoundationsOfCSS2024/blob/main/Python_Tutorial/exercises/tutorial_exercise_3.ipynb)  
 
-4. **Social  Behaviour and Trends (guest lecture: Dr. Lisette Espin-Noboa, Complexity Science Hub Vienna)** [[Slides]](https://pjercic.github.io/FoundationsOfCSS2024/04_SocialBehaviourTrends/week-4.pdf) [[Example codes]](https://github.com/pjercic/FoundationsOfCSS2024/blob/main/04_SocialBehaviourTrends/notebooks) (29.10.2023)  
+5. **AI ethics workshop 05.11.2024 in Vienna (No lecture) (Students are welcome to join, details will be announced)** (05.11.2024)  
+[[Example codes]](https://github.com/pjercic/FoundationsOfCSS2024/blob/main/04_SocialBehaviourTrends/notebooks) 
 - Exercise 1: Correlation of Future Orientation Index and Gross Domestic Product (session 1) [[Video]](https://tube.tugraz.at/paella/ui/watch.html?id=7d8348b3-5312-4238-a43e-ab313c66465d) -- [Exercise resources](https://github.com/pjercic/FoundationsOfCSS2024/blob/main/Exercise01/) 
 
-5. **AI ethics workshop 05.11.2024 in Vienna (No lecture) (Students are welcome to join, details will be announced)**
+6. **Social Media Sentiment Analysis (guest lecture: TBA)** [[Slides]](https://pjercic.github.io/FoundationsOfCSS2024/05_SocialMediaSentimentAnalysis/week-5.pdf) (12.11.2024)
 - Exercise 1: Correlation of Future Orientation Index and Gross Domestic Product (session 2) [[Video]](https://tube.tugraz.at/paella/ui/watch.html?id=7d8348b3-5312-4238-a43e-ab313c66465d) -- [Exercise resources](https://github.com/pjercic/FoundationsOfCSS2024/blob/main/Exercise01/) 
 
-6. **Social Media Sentiment Analysis (guest lecture: TBA)** [[Slides]](https://pjercic.github.io/FoundationsOfCSS2024/05_SocialMediaSentimentAnalysis/week-5.pdf) (12.11.2023)    
-- Exercise 2: Social Impact Theory with Twitter Data (session 2) [[Video]](https://tube.tugraz.at/paella/ui/watch.html?id=b070baec-ca13-4fdf-9875-ec0ac895a30f) -- [[Exercise resources]](https://github.com/pjercic/FoundationsOfCSS2024/blob/main/Exercise02/)  
-
 7. **Cities and Complexity (19.11.2024) (guest lecture: TBC)**
-- Exercise 2: Social Impact Theory with Twitter Data (session 1) [[Video]](https://tube.tugraz.at/paella/ui/watch.html?id=b070baec-ca13-4fdf-9875-ec0ac895a30f) -- [[Exercise resources]](https://github.com/pjercic/FoundationsOfCSS2024/blob/main/Exercise02/) 
+- Exercise 2: Social Impact Theory with Twitter Data (session 1) [[Video]](https://tube.tugraz.at/paella/ui/watch.html?id=b070baec-ca13-4fdf-9875-ec0ac895a30f) -- [[Exercise resources]](https://github.com/pjercic/FoundationsOfCSS2024/blob/main/Exercise02/)  
 
-8. **Collective intelligence and collective action (guest: Prof. Mirta Galesic, Santa Fe Institue and Complexity Science Hub Vienna)** [[Slides]](https://pjercic.github.io/FoundationsOfCSS2024/03_CollectiveIntelligenceAction/week-3.pdf) (26.11.2023)   
-- Exercise 3: Sentiment Evaluation of Twitter and YouTube Data (session 1) [[Video]](https://tube.tugraz.at/paella/ui/watch.html?id=01a068a1-92e5-4a0a-9633-d57b8901d770) -- [[Exercise Resources]](https://github.com/pjercic/FoundationsOfCSS2024/blob/main/Exercise03/)
-
+8. **Collective intelligence and collective action (guest: Prof. Mirta Galesic, Santa Fe Institue and Complexity Science Hub Vienna)** [[Slides]](https://pjercic.github.io/FoundationsOfCSS2024/03_CollectiveIntelligenceAction/week-3.pdf) (26.11.2024)
+- Exercise 2: Social Impact Theory with Twitter Data (session 2) [[Video]](https://tube.tugraz.at/paella/ui/watch.html?id=b070baec-ca13-4fdf-9875-ec0ac895a30f) -- [[Exercise resources]](https://github.com/pjercic/FoundationsOfCSS2024/blob/main/Exercise02/)
+  
 9. **Measuring Polarization (guest lecture: Dr. Samuel
-Martin-Gutierrez, Complexity Science Hub Vienna)** [[Slides]](https://pjercic.github.io/FoundationsOfCSS2024/07_MeasuringPolarization/week-7.pdf) (03.12.2023)   
+Martin-Gutierrez, Complexity Science Hub Vienna)** [[Slides]](https://pjercic.github.io/FoundationsOfCSS2024/07_MeasuringPolarization/week-7.pdf) (03.12.2024)
 - Exercise 3: Sentiment Evaluation of Twitter and YouTube Data (session 1) [[Video]](https://tube.tugraz.at/paella/ui/watch.html?id=01a068a1-92e5-4a0a-9633-d57b8901d770) -- [[Exercise Resources]](https://github.com/pjercic/FoundationsOfCSS2024/blob/main/Exercise03/)
 
-10. **Human Societies and Cultural Evolution (10.12.2023) —> Dr. Daniel Kondor, CSH [Confirmed]**
-- Exercise 4: Social Network Analysis of Swiss Politicians on Twitter Data (session 2) [[Video]](https://tube.tugraz.at/paella/ui/watch.html?id=ecaadec6-d56b-4812-8c77-844684f13ba4) -- [[Exercise Resources]](https://github.com/pjercic/FoundationsOfCSS2024/blob/main/Exercise04/) 
 
-11. **Social data science and data ethics (17.12.2023) —> TBC** 
-- Exercise 4: Social Network Analysis of Swiss Politicians on Twitter Data (session 2) [[Video]](https://tube.tugraz.at/paella/ui/watch.html?id=ecaadec6-d56b-4812-8c77-844684f13ba4) -- [[Exercise Resources]](https://github.com/pjercic/FoundationsOfCSS2024/blob/main/Exercise04/) 
+10. **Human Societies and Cultural Evolution (10.12.2024) —> Dr. Daniel Kondor, CSH [Confirmed]**
+- Exercise 3: Sentiment Evaluation of Twitter and YouTube Data (session 2) [[Video]](https://tube.tugraz.at/paella/ui/watch.html?id=01a068a1-92e5-4a0a-9633-d57b8901d770) -- [[Exercise Resources]](https://github.com/pjercic/FoundationsOfCSS2024/blob/main/Exercise03/)
+
+11. **Social data science and data ethics (17.12.2024) —> TBC**
+- Exercise 4: Social Network Analysis of Swiss Politicians on Twitter Data (single session) [[Video]](https://tube.tugraz.at/paella/ui/watch.html?id=ecaadec6-d56b-4812-8c77-844684f13ba4) -- [[Exercise Resources]](https://github.com/pjercic/FoundationsOfCSS2024/blob/main/Exercise04/) 
 
 ### Block 2: Project
 
-12. **Lecture Q&A session** [[Slides]]() (07.01.2024)  
+12. **Lecture Q&A session** [[Slides]]() (07.01.2025)  
 *Project guidance*  
 
-12. **Lecture Q&A session** [[Slides]]() (14.01.2024)
+12. **Lecture Q&A session** [[Slides]]() (14.01.2025)
 *Project guidance*  
 
-14. **No lecture** [[Agenda]](https://github.com/pjercic/FoundationsOfCSS2024/blob/main/final_project_agenda.pdf) (21.01.2024)
+14. **No lecture** [[Agenda]](https://github.com/pjercic/FoundationsOfCSS2024/blob/main/final_project_agenda.pdf) (21.01.2025)
 <!-- - Make sure your whole group is available between 16:00 and 19:00 -->
 
-15. **Final Poster presentations ** [[Agenda]](https://github.com/pjercic/FoundationsOfCSS2024/blob/main/final_project_agenda.pdf) (28.01.2024) **NOTE! Room change: HS FSI I (FSEG054)  from 11  to 14.**
+15. **Final Poster presentations ** [[Agenda]](https://github.com/pjercic/FoundationsOfCSS2024/blob/main/final_project_agenda.pdf) (28.01.2025) **NOTE! Room change: HS FSI I (FSEG054)  from 11  to 14.**
 <!-- - Make sure your whole group is available between 11:00 and 14:00 -->
 
 ## Where to access materials
@@ -105,9 +100,9 @@ It is so much easier to grade if everyone follows the same notebook structure.
 The assessment for the course is based on these components:
 
 - Exercises done in groups of **one or two students**. It is mandatory to submit ALL excercises for **12.5% of final grade** each submitted excercise, which totals in **50% of final grade**.
-  - Exercise 1: Deadline: 21.11.2023
-  - Exercise 2: Deadline: 05.12.2023
-  - Exercise 3: Deadline: 19.12.2023
+  - Exercise 1: Deadline: 18.11.2024
+  - Exercise 2: Deadline: 02.12.2024
+  - Exercise 3: Deadline: 16.12.2024
   - Exercise 4: Deadline: 12.01.2024
   
 - Projects are linked to two evaluations:
