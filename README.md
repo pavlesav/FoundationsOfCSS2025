@@ -13,7 +13,7 @@ Fariba Karimi is the Professor for Computational Behavioral and Social Sciences 
 
 ## Place and time
 
-The main lecture takes place on Tuesdays at 11:00 (sharp) in lecture room [HS II (ATK1008H)](https://online.tugraz.at/tug_online/ris.ris?corg=37&pQuellGeogrBTypNr=5&pZielGeogrBTypNr=5&pZielGeogrBerNr=10010&pRaumNr=5207&pActionFlag=A&pShowEinzelraum=J), Rechbauerstraße 12, Basement 1 in the Alte Technik campus of TU Graz. **The lecture is followed by one exercise session in the same room.**
+The main lecture takes place on Tuesdays at 11:00 (sharp) in lecture room [HS II (ATK1008H)](https://online.tugraz.at/tug_online/ris.ris?corg=37&pQuellGeogrBTypNr=5&pZielGeogrBTypNr=5&pZielGeogrBerNr=10010&pRaumNr=5207&pActionFlag=A&pShowEinzelraum=J), Rechbauerstraße 12, Basement 1 in the Alte Technik campus of TU Graz. **The lecture is followed by 30 minutes break and one hour exercise session in the same room.**
 
 ## Course Contents
 
