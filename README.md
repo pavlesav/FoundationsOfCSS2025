@@ -26,7 +26,7 @@ The course is organized in 13 sessions. Each session contains a practical part w
 
 2. **Social Impact Theory** [[Slides]](https://pjercic.github.io/FoundationsOfCSS2024/02_SocialImpact/week-2.pdf) (15.10.2024)
 - [Tutorial session: 01. Intro to Python 1](https://pjercic.github.io/FoundationsOfCSS2024/Python_Tutorial/) -- [Tutorial 1 resources](https://github.com/pjercic/FoundationsOfCSS2024/blob/main/Python_Tutorial/tutorials/tutorial01.ipynb) -- [Exercise 1 resources](https://github.com/pjercic/FoundationsOfCSS2024/blob/main/Python_Tutorial/exercises/tutorial_exercise_1.ipynb)  
-*(Please install Jupyter Notebook before the tutorial sessions takes place, where we can provide help with the installation if something goes wrong.) The easiest way is using the [Anaconda](https://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/install.html) distribution, since it is well supported and maintained.*
+*Please install Jupyter Notebook before the tutorial sessions takes place. The easiest way is using the [Anaconda](https://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/install.html) distribution, since it is well supported and maintained.*
 
 3. **Social Networks analysis** [[Slides]](https://pjercic.github.io/FoundationsOfCSS2024/03_CollectiveIntelligenceAction/week-3.pdf) (22.10.2024)
 - [Tutorial session: 02. Intro to Python 2](https://pjercic.github.io/FoundationsOfCSS2024/Python_Tutorial/) -- [Tutorial 2 resources](https://github.com/pjercic/FoundationsOfCSS2024/blob/main/Python_Tutorial/tutorials/tutorial02.ipynb) -- [Exercise 2 resources](https://github.com/pjercic/FoundationsOfCSS2024/blob/main/Python_Tutorial/exercises/tutorial_exercise_2.ipynb)
