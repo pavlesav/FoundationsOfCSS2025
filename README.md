@@ -23,10 +23,10 @@ The course is organized in 13 sessions. Each session contains a practical part w
 
 ### Block 1: Lectures
 
-1. **Introduction to Computational Social Systems** [[Slides]](https://pjercic.github.io/FoundationsOfCSS2024/01_Introduction/week-1.pdf) (11.10.2024) **NOTE! Room/time change: HS i3 (Inffeldgasse 25D) at 14:00**
+1. **Introduction to Computational Social Systems** [[Slides]](https://github.com/pjercic/FoundationsOfCSS2024/blob/main/Lectures/week-1-2024.pdf) (11.10.2024) **NOTE! Room/time change: HS i3 (Inffeldgasse 25D) at 14:00**
 - No exercise session 
 
-2. **Social Impact Theory** [[Slides]](https://pjercic.github.io/FoundationsOfCSS2024/02_SocialImpact/week-2.pdf) (15.10.2024)
+2. **Social Impact Theory** [[Slides]]([https://pjercic.github.io/FoundationsOfCSS2024/02_SocialImpact/week-2.pdf](https://github.com/pjercic/FoundationsOfCSS2024/blob/main/Lectures/week-2-2024.pdf)) (15.10.2024)
 - [Tutorial session: 01. Intro to Python 1](https://pjercic.github.io/FoundationsOfCSS2024/Python_Tutorial/) -- [Tutorial 1 resources](https://github.com/pjercic/FoundationsOfCSS2024/blob/main/Python_Tutorial/tutorials/tutorial01.ipynb) -- [Exercise 1 resources](https://github.com/pjercic/FoundationsOfCSS2024/blob/main/Python_Tutorial/exercises/tutorial_exercise_1.ipynb)  
 *Please install Jupyter Notebook before the tutorial sessions takes place. The easiest way is using the [Anaconda](https://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/install.html) distribution, since it is well supported and maintained.*
 
