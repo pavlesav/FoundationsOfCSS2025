@@ -40,7 +40,7 @@ The course is organized in 13 sessions. Each session contains a practical part w
 [[Slides]](https://github.com/pjercic/FoundationsOfCSS2024/blob/main/Lectures/week-5-2024.pdf) 
 - Exercise 1: Correlation of Future Orientation Index and Gross Domestic Product (session 1) [[Video]](https://tube.tugraz.at/paella/ui/watch.html?id=7d8348b3-5312-4238-a43e-ab313c66465d) -- [Exercise resources](https://github.com/pjercic/FoundationsOfCSS2024/blob/main/Exercise01/) 
 
-6. **Social Media Sentiment Analysis (guest lecture: TBA)** [[Slides]](https://pjercic.github.io/FoundationsOfCSS2024/05_SocialMediaSentimentAnalysis/week-5.pdf) (12.11.2024)
+6. **Social Media Sentiment Analysis (guest lecture: TBA)** [[Slides]](https://github.com/pjercic/FoundationsOfCSS2024/blob/main/Lectures/week-6-2024.pdf) (12.11.2024)
 - Exercise 1: Correlation of Future Orientation Index and Gross Domestic Product (session 2) [[Video]](https://tube.tugraz.at/paella/ui/watch.html?id=7d8348b3-5312-4238-a43e-ab313c66465d) -- [Exercise resources](https://github.com/pjercic/FoundationsOfCSS2024/blob/main/Exercise01/) 
 
 7. **Cities and Complexity (19.11.2024) (guest lecture: TBC)**
