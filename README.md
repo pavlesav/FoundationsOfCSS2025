@@ -51,11 +51,11 @@ The course is organized in 13 sessions. Each session contains a practical part w
   
 9. **Measuring Polarization (guest lecture: Dr. Samuel
 Martin-Gutierrez, Complexity Science Hub Vienna)** [[Slides]](https://pjercic.github.io/FoundationsOfCSS2024/07_MeasuringPolarization/week-7.pdf) (03.12.2024)
-- Exercise 3: Sentiment Evaluation of Twitter and YouTube Data (session 1) [[Video]](https://tube.tugraz.at/paella/ui/watch.html?id=01a068a1-92e5-4a0a-9633-d57b8901d770) -- [[Exercise Resources]](https://github.com/pjercic/FoundationsOfCSS2024/blob/main/Exercise03/)
+- Exercise 3: Sentiment Evaluation of Twitter and YouTube Data (session 1) [[Video]](https://tube.tugraz.at/paella/ui/watch.html?id=01a068a1-92e5-4a0a-9633-d57b8901d770) -- [[Exercise Resources]](https://github.com/pjercic/FoundationsOfCSS2024/blob/main/Exercise03/exercise_03.ipynb)
 
 
 10. **Human Societies and Cultural Evolution (10.12.2024) —> Dr. Daniel Kondor, CSH [Confirmed]**
-- Exercise 3: Sentiment Evaluation of Twitter and YouTube Data (session 2) [[Video]](https://tube.tugraz.at/paella/ui/watch.html?id=01a068a1-92e5-4a0a-9633-d57b8901d770) -- [[Exercise Resources]](https://github.com/pjercic/FoundationsOfCSS2024/blob/main/Exercise03/)
+- Exercise 3: Sentiment Evaluation of Twitter and YouTube Data (session 2) [[Video]](https://tube.tugraz.at/paella/ui/watch.html?id=01a068a1-92e5-4a0a-9633-d57b8901d770) -- [[Exercise Resources]](https://github.com/pjercic/FoundationsOfCSS2024/blob/main/Exercise03/exercise_03.ipynb)
 
 11. **Social data science and data ethics (17.12.2024) —> TBC**
 - Exercise 4: Social Network Analysis of Swiss Politicians on Twitter Data (single session) [[Video]](https://tube.tugraz.at/paella/ui/watch.html?id=ecaadec6-d56b-4812-8c77-844684f13ba4) -- [[Exercise Resources]](https://github.com/pjercic/FoundationsOfCSS2024/blob/main/Exercise04/) 
