@@ -93,15 +93,15 @@ The course is organized in 13 sessions. Each session contains a practical part w
 
 Final group project in groups of **up to four students**.  
 
-You can find more information about the project presentations and reports, including deadlines, in the [PROJECTS GUIDE](https://pjercic.github.io/FoundationsOfCSS2024/Projects_Guidance/ProjectsGuide).
-You can also find some guidance and recommendations in the [SLIDES OF THE PROJECT SUPPORT SESSION](https://pjercic.github.io/FoundationsOfCSS2024/Projects_Guidance/ProjectGuidanceSlides).
-There is also a [PROJECT EXAMPLE](https://pjercic.github.io/FoundationsOfCSS2024/Projects_Guidance/ProjectRegistrationExample).
+You can find more information about the project presentations and reports, including deadlines, in the [PROJECTS GUIDE](https://tc.tugraz.at/main/mod/page/view.php?id=513147).
+<!--You can also find some guidance and recommendations in the [SLIDES OF THE PROJECT SUPPORT SESSION](https://pjercic.github.io/FoundationsOfCSS2024/Projects_Guidance/ProjectGuidanceSlides).
+There is also a [PROJECT EXAMPLE](https://pjercic.github.io/FoundationsOfCSS2024/Projects_Guidance/ProjectRegistrationExample).-->
 
-*- 22.12 (end of day) - deadline for project group registrations on TC
+- 22.12 (end of day) - deadline for project group registrations on TC
 
 - 13.01 - Project guidance with Fariba <!-- - 00.01 - Project guidance with Fariba-->
 - 27.01 - Final Poster presentations
-- 10.02 (end of day) - deadline for submission of projects final report*
+- 10.02 (end of day) - deadline for submission of projects final report
 
 ## Course grading
 
