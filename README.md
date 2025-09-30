@@ -32,47 +32,47 @@ The course is organized in 13 sessions. Each session contains a practical part w
 
 1. **Introduction to Computational Social Systems** (07.10.2025)  
 
-2. **Measuring Polarization (guest lecture: Samuel Martin-Gutierrez)**  (15.10.2024)  
+2. **Measuring Polarization (guest lecture: Samuel Martin-Gutierrez)**  (14.10.2025)  
 
 - Tutorial session: 01. Intro to Python 1  
 *Please install Jupyter Notebook before the tutorial sessions takes place. The easiest way is using the [Anaconda](https://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/install.html) distribution, since it is well supported and maintained.*
 
-3. **Social Networks analysis**  (21.10.2024)
+3. **Social Networks analysis**  (21.10.2025)
 
 - Tutorial session: 02. Intro to Python 2
 
-4. **Social  Behaviour and Trends (guest lecture: Dr. Lisette Espin-Noboa, Complexity Science Hub Vienna)**  
+4. **Social  Behaviour and Trends (guest lecture: Dr. Lisette Espin-Noboa, Complexity Science Hub Vienna)** (28.10.25)  
 
 - Tutorial session: 03.  Intro to Python 3
 
-5. **Methods in financial markets (guest lecture: Dr. Matthias Raddant, TU Graz)** (04.11.2024)  
+5. **Methods in financial markets (guest lecture: Dr. Matthias Raddant, TU Graz)** (04.11.2025)  
 
-- Exercise 1: Correlation of Future Orientation Index and Gross Domestic Product (session 1) [[Video]](https://tube.tugraz.at/paella/ui/watch.html?id=7d8348b3-5312-4238-a43e-ab313c66465d) -- [Exercise resources](https://github.com/pjercic/FoundationsOfCSS2024/blob/main/Exercise01/) 
+- Exercise 1: Correlation of Future Orientation Index and Gross Domestic Product (session 1) [[Video]](https://tube.tugraz.at/paella/ui/watch.html?id=7d8348b3-5312-4238-a43e-ab313c66465d) 
 
-6. **Social Media Sentiment Analysis (guest lecture: Miroslav Mirchev)** (11.11.2024)
+6. **Social Media Sentiment Analysis (guest lecture: Miroslav Mirchev)** (11.11.2025)
 
-- Exercise 1: Correlation of Future Orientation Index and Gross Domestic Product (session 2) [[Video]](https://tube.tugraz.at/paella/ui/watch.html?id=7d8348b3-5312-4238-a43e-ab313c66465d) -- [Exercise resources](https://github.com/pjercic/FoundationsOfCSS2024/blob/main/Exercise01/) 
+- Exercise 1: Correlation of Future Orientation Index and Gross Domestic Product (session 2) [[Video]](https://tube.tugraz.at/paella/ui/watch.html?id=7d8348b3-5312-4238-a43e-ab313c66465d) 
 
-7. **Cities and Complexity  (guest lecture: TBC)**(18.11.2024)
+7. **Cities and Complexity  (guest lecture: TBC)**(18.11.2025)
 
-- Exercise 2: Social Impact Theory with Twitter Data (session 1) [[Video]](https://tube.tugraz.at/paella/ui/watch.html?id=b070baec-ca13-4fdf-9875-ec0ac895a30f) -- [[Exercise resources]](https://github.com/pjercic/FoundationsOfCSS2024/blob/main/Exercise02/)  
+- Exercise 2: Social Impact Theory with Twitter Data (session 1) [[Video]](https://tube.tugraz.at/paella/ui/watch.html?id=b070baec-ca13-4fdf-9875-ec0ac895a30f) 
 
-8. **Collective intelligence and collective action (guest lecture:: Prof. Mirta Galesic, Santa Fe Institue and Complexity Science Hub Vienna)** (25.11.2024)
+8. **Collective intelligence and collective action (guest lecture:: Prof. Mirta Galesic, Santa Fe Institue and Complexity Science Hub Vienna)** (25.11.2025)
 
-- Exercise 2: Social Impact Theory with Twitter Data (session 2) [[Video]](https://tube.tugraz.at/paella/ui/watch.html?id=b070baec-ca13-4fdf-9875-ec0ac895a30f) -- [[Exercise resources]](https://github.com/pjercic/FoundationsOfCSS2024/blob/main/Exercise02/)
+- Exercise 2: Social Impact Theory with Twitter Data (session 2) [[Video]](https://tube.tugraz.at/paella/ui/watch.html?id=b070baec-ca13-4fdf-9875-ec0ac895a30f) 
   
-9. **Social Impact Theory (guest lecture: Angarika)** (02.12.2024)
+9. **Social Impact Theory (guest lecture: Angarika)** (02.12.2025)
 
-- Exercise 3: Sentiment Evaluation of Twitter and YouTube Data (session 1) [[Video]](https://tube.tugraz.at/paella/ui/watch.html?id=01a068a1-92e5-4a0a-9633-d57b8901d770) -- [[Exercise Resources]](https://github.com/pjercic/FoundationsOfCSS2024/blob/main/Exercise03/exercise_03.ipynb)
+- Exercise 3: Sentiment Evaluation of Twitter and YouTube Data (session 1) [[Video]](https://tube.tugraz.at/paella/ui/watch.html?id=01a068a1-92e5-4a0a-9633-d57b8901d770)
 
 
 10. **Human Societies and Cultural Evolution (guest lecture: Dr. Daniel Kondor, CSH)** (09.12.2025)
 
-- Exercise 3: Sentiment Evaluation of Twitter and YouTube Data (session 2) [[Video]](https://tube.tugraz.at/paella/ui/watch.html?id=01a068a1-92e5-4a0a-9633-d57b8901d770) -- [[Exercise Resources]](https://github.com/pjercic/FoundationsOfCSS2024/blob/main/Exercise03/exercise_03.ipynb)
+- Exercise 3: Sentiment Evaluation of Twitter and YouTube Data (session 2) [[Video]](https://tube.tugraz.at/paella/ui/watch.html?id=01a068a1-92e5-4a0a-9633-d57b8901d770) 
 
-11. **Science of science (gust lecture: Ana Jaramillo) (16.12.2024) —> TBC**
+11. **Science of science (gust lecture: Ana Jaramillo) (16.12.2025) —> TBC**
 
-- Bonus Exercise 4: Social Network Analysis of Swiss Politicians on Twitter Data (single session) [[Video]](https://tube.tugraz.at/paella/ui/watch.html?id=ecaadec6-d56b-4812-8c77-844684f13ba4) -- [[Exercise Resources]](https://github.com/pjercic/FoundationsOfCSS2024/blob/main/Exercise04/) 
+- Bonus Exercise 4: Social Network Analysis of Swiss Politicians on Twitter Data (single session) [[Video]](https://tube.tugraz.at/paella/ui/watch.html?id=ecaadec6-d56b-4812-8c77-844684f13ba4) 
 
 ### Block 2: Project
 
@@ -81,12 +81,12 @@ The course is organized in 13 sessions. Each session contains a practical part w
 
 <!-- - Make sure your whole group is available between 16:00 and 19:00 -->
 
-15. **Final Poster presentations** [[Agenda]](https://github.com/pjercic/FoundationsOfCSS2024/blob/main/final_project_agenda.pdf) (27.01.2025) **NOTE! Room change: HS FSI I (FSEG054)  from 11  to 14.**
+15. **Final Poster presentations** (27.01.2025) **NOTE! Room change: HS FSI I (FSEG054)  from 11  to 14.**
 <!-- - Make sure your whole group is available between 11:00 and 14:00 -->
 
 ## Where to access materials
 
-- Handouts, codes, and data can be found on the [Github repository of the course](https://github.com/pjercic/FoundationsOfCSS2024).
+- Handouts, codes, and data can be found on the Github repository of the course.
 - Students at TU Graz can access the [course at Teach Center](https://tc.tugraz.at/main/course/view.php?id=4072) to get additional information, watch videos, and to participate in the forums and quizzes.
 
 ## Project preparation and presentation dates
@@ -111,10 +111,10 @@ It is so much easier to grade if everyone follows the same notebook structure.
 The assessment for the course is based on these components:
 
 - Exercises done in groups of **one or two students**. It is mandatory to submit ALL excercises for **16.6% of final grade** each submitted excercise, which totals in **50% of final grade**.
-  - Exercise 1: Deadline: 17.11.2024
-  - Exercise 2: Deadline: 01.12.2024
-  - Exercise 3: Deadline: 15.12.2024
-  - Bonus Exercise 4: Deadline: 12.01.2024
+  - Exercise 1: Deadline: 17.11.2025
+  - Exercise 2: Deadline: 01.12.2025
+  - Exercise 3: Deadline: 15.12.2025
+  - Bonus Exercise 4: Deadline: 12.01.2025
   
 - Projects are linked to two evaluations:
   - Participation in group presentation sessions (both as presenter and discussant): **25% of final grade**
