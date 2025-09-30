@@ -72,7 +72,7 @@ The course is organized in 13 sessions. Each session contains a practical part w
 
 11. **Science of science (gust lecture: Ana Jaramillo) (16.12.2024) —> TBC**
 
-- Exercise 4: Social Network Analysis of Swiss Politicians on Twitter Data (single session) [[Video]](https://tube.tugraz.at/paella/ui/watch.html?id=ecaadec6-d56b-4812-8c77-844684f13ba4) -- [[Exercise Resources]](https://github.com/pjercic/FoundationsOfCSS2024/blob/main/Exercise04/) 
+- Bonus Exercise 4: Social Network Analysis of Swiss Politicians on Twitter Data (single session) [[Video]](https://tube.tugraz.at/paella/ui/watch.html?id=ecaadec6-d56b-4812-8c77-844684f13ba4) -- [[Exercise Resources]](https://github.com/pjercic/FoundationsOfCSS2024/blob/main/Exercise04/) 
 
 ### Block 2: Project
 
@@ -110,11 +110,11 @@ It is so much easier to grade if everyone follows the same notebook structure.
 
 The assessment for the course is based on these components:
 
-- Exercises done in groups of **one or two students**. It is mandatory to submit ALL excercises for **12.5% of final grade** each submitted excercise, which totals in **50% of final grade**.
+- Exercises done in groups of **one or two students**. It is mandatory to submit ALL excercises for **16.6% of final grade** each submitted excercise, which totals in **50% of final grade**.
   - Exercise 1: Deadline: 17.11.2024
   - Exercise 2: Deadline: 01.12.2024
   - Exercise 3: Deadline: 15.12.2024
-  - Exercise 4: Deadline: 12.01.2024
+  - Bonus Exercise 4: Deadline: 12.01.2024
   
 - Projects are linked to two evaluations:
   - Participation in group presentation sessions (both as presenter and discussant): **25% of final grade**
